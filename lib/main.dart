@@ -18,8 +18,8 @@ class MyApp extends StatelessWidget {
           actions: const [Icon(Icons.notification_add_outlined)],
         ),
         body: Center(
-          child: Image.asset("asstes/images/emango_logo.jpeg"),
-        ),
+            // child: Image.asset("asstes/images/emango_logo.jpeg")
+            ),
       ),
     );
   }
